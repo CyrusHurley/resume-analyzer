@@ -1,0 +1,40 @@
+John Doe  
+Software Engineer  
+john.doe@example.com  (555) 123-4567  github.comjohndoe  San Francisco, CA
+
+SUMMARY  
+Results-oriented software engineer with 3+ years of experience in full-stack development, cloud infrastructure, and AI-based systems. Passionate about writing clean, scalable code and solving real-world problems.
+
+SKILLS  
+Languages Python, JavaScript, Java, SQL  
+Frameworks React, Node.js, Flask, Django  
+Cloud AWS (EC2, Lambda, S3, RDS), Docker  
+AIML OpenAI API, TensorFlow, scikit-learn  
+Tools Git, GitHub, Postman, Jira, AgileScrum  
+
+EXPERIENCE  
+Software Engineer  
+TechNova Inc.  San Francisco, CA  Mar 2022 – Present  
+- Built and deployed RESTful APIs using Flask and PostgreSQL, handling over 1M daily requests  
+- Developed React front-ends for AI-driven dashboards and customer insights  
+- Integrated OpenAI’s GPT API to automate content generation, increasing productivity by 40%
+
+Junior Developer  
+CloudSync Solutions  Remote  Jun 2020 – Feb 2022  
+- Created reusable React components and Node.js backend modules  
+- Assisted in migrating infrastructure to AWS using Docker and CICD pipelines  
+- Wrote unit tests and documentation for internal developer tools
+
+EDUCATION  
+B.S. Computer Science  
+University of California, Davis  2020
+
+CERTIFICATIONS  
+AWS Certified Solutions Architect – Associate  
+Python for Everybody – University of Michigan (Coursera)
+
+PROJECTS  
+AI Resume Analyzer (Open Source)  
+- Parses resumes using OpenAI’s GPT and extracts strengthsweaknesses  
+- Highlights alignment with specific job descriptions  
+- Available on GitHub github.comjohndoeai-resume-analyzer
